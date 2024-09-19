@@ -8,12 +8,12 @@
 <ol>
 <li>Performing <strong>Sentiment</strong> Analysis</li>
 <li>Performing <strong>Word-Cloud</strong> Analysis</li>
-<li><strong>Emoji</strong> Analysis (New and Interesting)</li>
+<li><strong>Emoji</strong> Analysis <ins>(New and Interesting)</ins></li>
 <li>Analysing the Most liked category?</li>
 <li>Is the audience engaged or not?</li>
 <li>Which channels have the largest number of <strong>trending videos?</strong></li>
 <li>Does <em>Punctuations</em> in title_name column have any relation with <em>views, likes, dislikes, comment_count</em> features?</li>
-</ol><h2>Technologies Used</h2>
+</ol><h2>Libraries Used</h2>
 <hr><ul>
 <li>Pandas</li>
 </ul><ul>
